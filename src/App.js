@@ -13,6 +13,7 @@ function App() {
       <Work />
       <Testimonials />
       <Contact />
+      <Footer />
     </div>
   );
 }
